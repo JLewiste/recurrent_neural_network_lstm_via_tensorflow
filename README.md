@@ -1,4 +1,4 @@
-# Recurrent-Neural-Network-LSTM-via-Tensorflow
+# Recurrent neural network LSTM via Tensorflow
 
 ![Pictures](Pictures/lstm.png)
 
